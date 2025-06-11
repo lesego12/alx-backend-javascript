@@ -16,7 +16,7 @@ This repository contains projects completed as part of the **ALX Software Engine
 
 - **Languages:** JavaScript, TypeScript
 - **Backend Framework:** Node.js
-- **Testing:** Mocha, Jest (or similar testing frameworks)
+- **Testing:** Mocha, Jest
 - **Version Control:** Git
 
 
